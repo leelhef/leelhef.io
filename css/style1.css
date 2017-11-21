@@ -1,0 +1,41 @@
+*{margin:0;padding:0;}
+.header{
+	height: 90px;
+	background-color: #252525;
+	border-bottom: 1px solid rgba(255,255,255,0.2);
+	font-size: 30px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+	line-height: 90px;
+	}
+	.nav{
+		height: 50px;
+		border-bottom: 1px solid rgba(255,255,255,0.2);
+		background-color: #252525;
+		text-align: center;
+		}
+	.nav li{
+		line-height: 50px;
+		display: inline;
+		font-size: 14px;
+		color: #fff;
+		margin-left: 10px;
+	}
+	.home {
+		padding-bottom:12px;
+		border-bottom:4px solid #fff;}
+
+	.banner{
+		height:380px;
+	    background: url(../img/song.jpg) no-repeat center center #252525;
+		
+	}
+	input{width:500px;
+		height: 50px;
+		border: 1px solid #252525;
+
+	}
+	button{width:50px;
+		height:50px;
+	}
